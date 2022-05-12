@@ -1,0 +1,15 @@
+/Users/denashivanandareddypitta/Projects/Diffvariables/Diffvariables/obj/Debug/net6.0/Diffvariables.csproj.AssemblyReference.cache
+/Users/denashivanandareddypitta/Projects/Diffvariables/Diffvariables/obj/Debug/net6.0/Diffvariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denashivanandareddypitta/Projects/Diffvariables/Diffvariables/obj/Debug/net6.0/Diffvariables.AssemblyInfoInputs.cache
+/Users/denashivanandareddypitta/Projects/Diffvariables/Diffvariables/obj/Debug/net6.0/Diffvariables.AssemblyInfo.cs
+/Users/denashivanandareddypitta/Projects/Diffvariables/Diffvariables/obj/Debug/net6.0/Diffvariables.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/Diffvariables/Diffvariables/bin/Debug/net6.0/Diffvariables
+/Users/denashivanandareddypitta/Projects/Diffvariables/Diffvariables/bin/Debug/net6.0/Diffvariables.deps.json
+/Users/denashivanandareddypitta/Projects/Diffvariables/Diffvariables/bin/Debug/net6.0/Diffvariables.runtimeconfig.json
+/Users/denashivanandareddypitta/Projects/Diffvariables/Diffvariables/bin/Debug/net6.0/Diffvariables.dll
+/Users/denashivanandareddypitta/Projects/Diffvariables/Diffvariables/bin/Debug/net6.0/Diffvariables.pdb
+/Users/denashivanandareddypitta/Projects/Diffvariables/Diffvariables/obj/Debug/net6.0/Diffvariables.dll
+/Users/denashivanandareddypitta/Projects/Diffvariables/Diffvariables/obj/Debug/net6.0/refint/Diffvariables.dll
+/Users/denashivanandareddypitta/Projects/Diffvariables/Diffvariables/obj/Debug/net6.0/Diffvariables.pdb
+/Users/denashivanandareddypitta/Projects/Diffvariables/Diffvariables/obj/Debug/net6.0/Diffvariables.genruntimeconfig.cache
+/Users/denashivanandareddypitta/Projects/Diffvariables/Diffvariables/obj/Debug/net6.0/ref/Diffvariables.dll
